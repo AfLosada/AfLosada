@@ -8,4 +8,3 @@
 - 💬 Talk to me about history, anime, philosophy, videogames or cooooding.
 - 📫 How to reach me: email me pls.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Degrowth is a must. Anyone has any degrowth app ideas?
