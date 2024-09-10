@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a tool to help me pack and install npm packages easily.
-- 🌱 I’m currently learning Golang, Three.js and Remix.
-- 👯 I’m looking to collaborate on DashJs
-- 🤔 I’m looking for help with DashJs or HlsJs. Also learning about WebGL, using it through Three.js.
-- 💬 Talk to me about history, anime, philosophy, videogames or cooooding.
-- 📫 How to reach me: email me pls.
+- 🔭 Working on a CLI tool to help me pack and install npm packages easily.
+- 🌱 Learning Golang, Three.js and Remix.
+- 👯 Want to collaborate on DashJs
+- 🤔 I’m looking for help with Video encoding, kubernetes and WebGL.
+- 💬 Talk to me about history, anime, philosophy, videogames or code.
+- 📫 Email me to reach me.
 - 😄 Pronouns: He/Him
