@@ -5,6 +5,6 @@
 - 🌱 Learning Golang, Three.js and Remix.
 - 👯 Want to collaborate on DashJs
 - 🤔 I’m looking for help with Video encoding, kubernetes and WebGL.
-- 💬 Talk to me about history, anime, philosophy, videogames or code.
+- 💬 I love to talk about history, anime, philosophy, videogames or code.
 - 📫 Email me to reach me.
 - 😄 Pronouns: He/Him
